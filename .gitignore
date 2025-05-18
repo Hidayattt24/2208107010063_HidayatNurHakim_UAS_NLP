@@ -1,0 +1,18 @@
+# file: .gitignore
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+coqui_utils/
+whisper.cpp/
+
+.vs/
